@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan 02_1 Homework</string>
+    <string name="button_say_hello">Say Hello</string>
+    <string name="button_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="tv_hello">Hello!!</string>
+</resources>

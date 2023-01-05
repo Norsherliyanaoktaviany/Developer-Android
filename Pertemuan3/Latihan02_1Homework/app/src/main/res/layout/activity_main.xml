@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/bt_sayhello"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:onClick="launchSayHello"
+        android:text="@string/button_say_hello"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_count"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/button_count"
+        android:onClick="ShowCount"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="UsingOnClickInXml" />
+
+    <TextView
+        android:id="@+id/show_count"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#FFEB3B"
+        android:gravity="center"
+        android:text="@string/count_initial_value"
+        android:textStyle="bold"
+        android:textColor="@color/purple_500"
+        android:textSize="160dp"
+        app:layout_constraintBottom_toTopOf="@id/bt_count"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bt_sayhello"
+        tools:ignore="SpUsage" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

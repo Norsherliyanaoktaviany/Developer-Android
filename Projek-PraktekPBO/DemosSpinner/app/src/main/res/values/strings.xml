@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Demos Spinner</string>
+
+    <string-array name="fifa2022">
+        <item>Belgia</item>
+        <item>Inggris</item>
+        <item>Jerman</item>
+        <item>Portugal</item>
+        <item>Spanyol</item>
+        <item>Swiss</item>
+        <item>Australia</item>
+        <item>Jepang</item>
+        <item>Qatar</item>
+        <item>Korea Selatan</item>
+        <item>Kanada</item>
+        <item>Amerika Serikat</item>
+        <item>Meksiko</item>
+        <item>Brasil</item>
+        <item>Argentina</item>
+        <item>Ekuador</item>
+        <item>Uruguay</item>
+        <item>Kosta Rika</item>
+        <item>Tunisia</item>
+        <item>Ghana</item>
+        <item>Kameru</item>
+        <item>Sanegal</item>
+        <item>Arab Saudi</item>
+        <item>Iran</item>
+        <item>Wales</item>
+        <item>Serbia</item>
+        <item>Portugal</item>
+        <item>Polandia</item>
+        <item>Belanda</item>
+        <item>Prancis</item>
+        <item>Denmark</item>
+        <item>Kroasia</item>
+    </string-array>
+</resources>

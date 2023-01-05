@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodingChallenge071_Sherli</string>
+
+    <string name="start_work">I am ready to start work!</string>
+    <string name="start_task">Start Task</string>
+    <string name="napping">Napping...</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TransitionandAnimations_Challenge2 052 Sherli</string>
+
+    <string name="circle">Circle</string>
+    <string name="line">line</string>
+    <string name="square">square</string>
+    <string name="android_icon">Android icon</string>
+</resources>

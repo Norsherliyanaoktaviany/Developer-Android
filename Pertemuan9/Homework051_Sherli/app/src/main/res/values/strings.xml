@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework051_Sherli</string>
+
+    <string name="battery_level">Battery level</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+</resources>
